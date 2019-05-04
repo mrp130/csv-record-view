@@ -1,6 +1,6 @@
 [
 	{
-        "command": "csvrecordview",
-        "caption": "CSV Record View"
-    }
+    "command": "csvrecordview",
+    "caption": "CSV Record View"
+  }
 ]
