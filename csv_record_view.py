@@ -22,5 +22,5 @@ class CsvrecordviewCommand(sublime_plugin.TextCommand):
 				
 				arr = r.findall(text)
 				output = '\n'.join(arr)
-				new_view = sublime.active_window().new_file()
+				new_view = self.view.window().new_file()
 				new_view.insert(edit, 0, output)
