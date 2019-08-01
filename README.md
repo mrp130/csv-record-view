@@ -1,7 +1,7 @@
 # CSV Record View
 Sublime Text 3 plugin for transforming csv line(s) to record view
 
-![Simulation](https://raw.githubusercontent.com/mrp130/resources/master/csv-record-view.gif?token=AB6CQH6FTVOL445L5UFBW4S5FX7JQ)
+![Simulation](https://raw.githubusercontent.com/mrp130/resources/master/csv-record-view.gif?token=AB6CQH2OG2WAHG4YTW4UUGC5JRGDQ)
 
 ## Usage Instructions
 1. Select line(s) to transform
